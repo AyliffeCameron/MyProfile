@@ -1,0 +1,168 @@
+html,body,div {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  vertical-align: baseline;
+}
+
+h1 {
+  font-size: 40px;
+  color: #3D3D3D;
+  text-align: center;
+}
+h2 {
+  font-size: 40px;
+  color:#d9b08c;
+
+}
+
+h3 {
+  font-size: 40px;
+  color: #d9b08c;
+
+}
+h4 {
+  padding-left: 10px;
+  font-size: 30px;
+  color: #d9b08c;
+  margin-bottom: 0px;
+}
+
+p {
+  font-size: 20px;
+  padding-left: 10px;
+  line-height: normal;
+  margin-bottom: auto ;
+  color: #AAABB8;
+}
+
+section {
+	border-bottom: 5px solid #ECE9E1;
+	padding: 0;
+  background-color: #3D3D3D;
+
+
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+#addr {
+  margin-top: 80px;
+  margin-bottom: 90px;
+  color: #3D3D3D;
+  text-align: right;
+  padding-top: 30px;
+  padding-bottom:20px;
+  padding-right: 20px;
+}
+
+#ul1 {
+  color: #AAABB8;
+  background-color: inherit;
+  padding-bottom: -5px;
+  padding-top: -5px;
+
+}
+
+#ul2 {
+  color: #AAABB8;
+  background-color: inherit;
+}
+
+
+#headshot {
+float: left;
+}
+
+#page {
+  width: 90%;
+  max-width: 950px;
+  margin: 20px auto;
+  background-color: inherit;
+}
+
+
+#heading {
+text-align: left;
+padding-top: 2px;
+padding-left: 20px;
+background-color: inherit;
+}
+
+.background {
+  background-color: #ece9e1;
+  background-position: 100%;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+}
+
+.clear {
+  clear: both;
+}
+
+
+
+.mainsection {
+background-image: inherit;
+}
+
+.maincontent {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.main {
+  padding-left: 10px;
+  float:left;
+  width: 36%;
+}
+
+.content {
+  padding-right: 10px;
+  padding-bottom: 10px;
+  float: right;
+  width: 60%;
+
+}
+
+div.gallery {
+  columns: 2;
+  margin: 5px;
+  float: left;
+  width: 300px;
+  background-color: inherit;
+}
+
+div.gallery:hover {
+  border: 2px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+a:link {
+  color: #7d7d7dfa;
+  background-color:inherit;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+    color: hotpink;
+  }
